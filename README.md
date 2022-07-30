@@ -20,6 +20,7 @@ truncate table title_actor;
 truncate table title_director;
 truncate table title_category;
 
+Dependencia necesaria para el 2nd método rest.
 <dependency>            
         <groupId>org.springframework.boot</groupId>            
         <artifactId>spring-boot-starter-data-rest</artifactId>        
