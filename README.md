@@ -1,7 +1,7 @@
-# WTF
+
 
 - Crear las tablas con el Script
-- Ir a aplicaciones properties y cambiar la base de datos
+- Ir a aplicaciones properties y definir la base de datos y el usuario
 - Disfrutar
 - Quitar los system.out.print()
 - Invitar a una ronda.
